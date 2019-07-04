@@ -580,7 +580,7 @@
                                         <hr>
                                         <p class="m-t-30">{{$data_profile->about_me}}</p>
                                                                                 
-                                        <h4 class="font-medium m-t-30">Social Profile</h4>
+                                        <h4 class="font-medium m-t-30">Social Profile Saya</h4>
                                         <hr>
 										
 										<a href="{{$data_profile->facebook_link}}" class="btn btn-circle btn-secondary"><i class="fab fa-facebook-f"></i></a>
